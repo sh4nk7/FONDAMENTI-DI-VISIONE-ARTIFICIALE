@@ -1,0 +1,10 @@
+/home/giuseppe/Scrivania/vislabs/opencv-lab-l03/build/CMakeFiles/simple.dir
+/home/giuseppe/Scrivania/vislabs/opencv-lab-l03/build/CMakeFiles/prevframe.dir
+/home/giuseppe/Scrivania/vislabs/opencv-lab-l03/build/CMakeFiles/running.dir
+/home/giuseppe/Scrivania/vislabs/opencv-lab-l03/build/CMakeFiles/exprunning.dir
+/home/giuseppe/Scrivania/vislabs/opencv-lab-l03/build/CMakeFiles/edit_cache.dir
+/home/giuseppe/Scrivania/vislabs/opencv-lab-l03/build/CMakeFiles/rebuild_cache.dir
+/home/giuseppe/Scrivania/vislabs/opencv-lab-l03/build/CMakeFiles/list_install_components.dir
+/home/giuseppe/Scrivania/vislabs/opencv-lab-l03/build/CMakeFiles/install.dir
+/home/giuseppe/Scrivania/vislabs/opencv-lab-l03/build/CMakeFiles/install/local.dir
+/home/giuseppe/Scrivania/vislabs/opencv-lab-l03/build/CMakeFiles/install/strip.dir
