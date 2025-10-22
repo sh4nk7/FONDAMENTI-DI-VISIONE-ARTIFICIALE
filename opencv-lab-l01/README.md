@@ -1,8 +1,7 @@
 
-# 🧠 Progetto L01 (rewrite) – Operazioni base su immagini con OpenCV
+# 🧠 Progetto L01 – Operazioni base su immagini con OpenCV
 
-Questa è una **riscrittura originale** dell’assegnamento L01, con la stessa funzionalità ma
-**codice e struttura progettuale inediti**, stile C++17 e CMake moderni.
+Questa è l’assegnamento L01.
 
 ## ✅ Obiettivi
 - Accesso diretto ai pixel (`cv::Mat`) senza helper ad alto livello.
