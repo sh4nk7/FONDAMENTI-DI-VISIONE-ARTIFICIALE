@@ -1,4 +1,4 @@
-# 🧠 Progetto: Implementazione di `myfilter2D` in C++ con OpenCV
+# 🧠 Progetto L02: Implementazione di `myfilter2D` in C++ con OpenCV
 
 ## 📘 Descrizione
 
