@@ -1,0 +1,2 @@
+/usr/bin/ar qc libl05_filters.a CMakeFiles/l05_filters.dir/src/args.cpp.o CMakeFiles/l05_filters.dir/src/utils.cpp.o CMakeFiles/l05_filters.dir/src/convolution.cpp.o CMakeFiles/l05_filters.dir/src/filters.cpp.o
+/usr/bin/ranlib libl05_filters.a

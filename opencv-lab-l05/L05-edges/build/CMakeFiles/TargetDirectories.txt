@@ -1,0 +1,4 @@
+/home/giuseppe/Scrivania/vislabs/opencv-lab-l05/L05-edges/build/CMakeFiles/l05_filters.dir
+/home/giuseppe/Scrivania/vislabs/opencv-lab-l05/L05-edges/build/CMakeFiles/l05_edges_app.dir
+/home/giuseppe/Scrivania/vislabs/opencv-lab-l05/L05-edges/build/CMakeFiles/edit_cache.dir
+/home/giuseppe/Scrivania/vislabs/opencv-lab-l05/L05-edges/build/CMakeFiles/rebuild_cache.dir
