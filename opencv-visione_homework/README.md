@@ -35,3 +35,107 @@ L’immagine risultante è **binaria**:
 
 ## 📁 Struttura della cartella
 
+```bash
+visione_homework/
+│
+├── vision.cpp # File principale (consegna)
+├── simple.cpp # File del professore da modificare
+├── 9spicchi.pgm # Esempio di immagine con 9 spicchi
+├── 7spicchi.pgm # Esempio di immagine con 7 spicchi
+└── README.md # 
+```
+
+
+---
+
+## ⚙️ Requisiti
+
+- Sistema operativo: Linux / macOS / WSL  
+- Libreria: [OpenCV 4](https://opencv.org/releases/)  
+  Installazione rapida su Ubuntu:
+```bash
+  sudo apt update
+  sudo apt install libopencv-dev
+```
+
+## 🧠 Spiegazione del codice
+vision.cpp
+
+- Riceve i parametri da linea di comando (-i, -n, -s, -o).
+
+- Carica l’immagine in scala di grigi.
+
+- Esegue la funzione drawEdge(), che:
+
+    1. Calcola l’angolo tra gli spicchi (360 / numSpicchi);
+
+    2. Disegna linee bianche solo per gli indici passati;
+
+    3. Genera un’immagine binaria (edges).
+
+- Mostra a schermo le finestre:
+
+    - image → immagine originale
+
+    - edges → immagine con i bordi selezionati evidenziati
+
+- Se specificato, salva il risultato su file (-o risultato.png).
+
+## 🏗️ Compilazione
+
+Da terminale, nella cartella del progetto:
+
+Per il programma principale:
+
+```bash
+    g++ vision.cpp -o vision `pkg-config --cflags --libs opencv4`
+```
+  
+## ▶️ Esecuzione
+
+```bash
+    g++ vision.cpp -o vision `pkg-config --cflags --libs opencv4`
+```
+    
+## Eseguire il programma principale
+
+```bash
+    ./vision -i 9spicchi.pgm -n 9 -s 2 -s 5 -s 6
+```
+
+```bash
+    ./vision -i 7spicchi.pgm -n 7 -s 1 -s 3 -s 5
+```
+
+## Salvare il risultato
+
+```bash
+    ./vision -i 9spicchi.pgm -n 9 -s 2 -s 5 -s 6 -o risultato.png
+
+```
+```bash
+    ./vision -i 7spicchi.pgm -n 7 -s 1 -s 3 -s 5 -o risultato.png
+
+```
+
+## 🧪 Output atteso
+
+- Immagine binaria con sfondo nero e linee bianche corrispondenti agli edge richiesti.
+
+- Le linee partono dal centro e sono disposte in senso orario.
+
+- Nessun altro contenuto deve essere disegnato.
+
+```bash
+Esempio visuale:
+
+Immagine originale:     Immagine output:
+   (spicchi grigi)      (solo linee bianche)
+```
+
+## 🧾 Autore
+
+Studente: Giuseppe Dimonte
+Matricola: 367431
+Corso: Ingegneria Informatica – Università di Parma
+Anno Accademico: 2025/2026
