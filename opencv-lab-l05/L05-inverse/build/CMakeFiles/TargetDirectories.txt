@@ -1,0 +1,7 @@
+/home/giuseppe/Scrivania/vislabs/opencv-lab-l05/L05-inverse/build/CMakeFiles/lab5_2.dir
+/home/giuseppe/Scrivania/vislabs/opencv-lab-l05/L05-inverse/build/CMakeFiles/edit_cache.dir
+/home/giuseppe/Scrivania/vislabs/opencv-lab-l05/L05-inverse/build/CMakeFiles/rebuild_cache.dir
+/home/giuseppe/Scrivania/vislabs/opencv-lab-l05/L05-inverse/build/CMakeFiles/list_install_components.dir
+/home/giuseppe/Scrivania/vislabs/opencv-lab-l05/L05-inverse/build/CMakeFiles/install.dir
+/home/giuseppe/Scrivania/vislabs/opencv-lab-l05/L05-inverse/build/CMakeFiles/install/local.dir
+/home/giuseppe/Scrivania/vislabs/opencv-lab-l05/L05-inverse/build/CMakeFiles/install/strip.dir
