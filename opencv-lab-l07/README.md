@@ -149,9 +149,12 @@ out/vdisparity.png
 
 Caratteristiche:
 
-✅ la cartella out/ viene generata se assente
-✅ nessuna modifica necessaria da parte dell’utente
-✅ percorso sempre relativo alla directory di esecuzione
+- ✅ la cartella out/ viene generata se assente
+  
+- ✅ nessuna modifica necessaria da parte dell’utente
+  
+- ✅ percorso sempre relativo alla directory di esecuzione
+  
 
 Esempio dopo la build:
 
