@@ -64,7 +64,7 @@ L08/
 └── out/
 └── (vuota all’inizio)
 ```
-> ⚠️ La cartella `out/` **deve esistere**, altrimenti il programma non può salvare le immagini.
+> ⚠️ La cartella `out/` **Viene creata**, quella che vedete è già una simulazione.
 
 ---
 
